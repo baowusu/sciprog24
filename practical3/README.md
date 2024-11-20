@@ -1,4 +1,4 @@
- Git Assignment Project - Practical 3
+# Git Assignment Project - Practical 3
 
 * Name: Bernard Asare Owusu
 * Student Number: 24108902
